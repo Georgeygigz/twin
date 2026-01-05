@@ -1,0 +1,21 @@
+Here is a **polished personal summary** crafted directly from your CV, suitable for the **top section of your resume, LinkedIn profile,
+or professional bio**:
+
+---
+
+### Personal Summary
+
+I am a results-driven **Software Engineer** with over **6 years of experience** designing, building, and scaling backend systems across fintech,
+health tech, and talent platforms. I specialize in **Python (Django, Flask)** and have strong experience working with **microservices,
+cloud infrastructure, and distributed systems**.
+
+I have contributed to high-impact products serving **millions of users**, including health platforms enrolling over **2.3 million mothers**,
+fintech systems integrating **mobile money and payment gateways**, and AI-powered recruitment platforms leveraging **Elasticsearch, NLP,
+and OpenAI integrations**.
+
+My background spans **AWS, GCP, Docker, Kubernetes, PostgreSQL, MongoDB, Redis, CI/CD**, and modern system architectures. I am equally comfortable
+improving system performance, building reusable developer tooling, and mentoring junior engineers.
+
+Currently, I am actively **upskilling in Java, Spring Boot, Golang, and LLM engineering**, while mentoring upcoming developers and building
+production-grade applications. I thrive in environments that value **clean architecture, scalability, and meaningful real-world impact** 
+

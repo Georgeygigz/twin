@@ -1,0 +1,22 @@
+{
+    "full_name": "George Githinji Mutti",
+    "name": "Georgey",
+    "current_role": "Senior Software Engineer",
+    "location": "Nairobi, Kenya",
+    "email": "georgeymutti@gmail.com",
+    "linkedin": "linkedin.com/in/george-mutti-b5a86bba/",
+    "specialties": [
+      "Software Engineering",
+      "AI",
+      "DevOps",
+      "MLOPS"
+    ],
+    "years_experience": 6,
+    "education": [
+      {
+        "degree": "Bachelor of Science in Computer Science",
+        "institution": "Machakos University",
+        "year": "2018"
+      }
+    ]
+  }
