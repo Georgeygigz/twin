@@ -50,5 +50,5 @@ lambda-deployment.zip
 .terraform/
 .terraform.lock.hcl
 terraform.tfstate.d/
-*.tfvars
+*.tfvars.secret
 
