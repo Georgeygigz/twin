@@ -43,3 +43,12 @@ venv/
 lambda-package/
 
 lambda-deployment.zip
+
+# Terraform
+*.tfstate
+*.tfstate.*
+.terraform/
+.terraform.lock.hcl
+terraform.tfstate.d/
+*.tfvars
+
